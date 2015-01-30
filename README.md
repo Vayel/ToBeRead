@@ -1,2 +1,3 @@
 # ToBeRead
-A list of texts I should read
+
+* [SICP](http://mitpress.mit.edu/sicp/)
